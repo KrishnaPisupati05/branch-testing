@@ -1,0 +1,8 @@
+{
+    "name": "minimal-quality-gate",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+      "test": "echo 'Placeholder test script succeeded'"
+    }
+  }
